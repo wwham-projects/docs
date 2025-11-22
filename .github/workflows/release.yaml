@@ -1,0 +1,82 @@
+name: Build & Release Policies (Pandoc)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build PDFs & Publish to Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    outputs:
+      new_version: ${{ steps.tag_version.outputs.new_tag }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # STEP 1: Update version in ALL markdown files in the 'policies' folder
+      - name: Replace version in templates
+        run: |
+          # This loops through all .md files in the policies folder
+          # and replaces the {{version}} placeholder
+          for file in source/*.md; do
+            sed -i "s/{{version}}/${{ steps.tag_version.outputs.new_tag }}/g" "$file"
+          done
+
+      - name: Create output directory
+        run: mkdir -p out
+
+      # STEP 2: Run Pandoc with a Loop
+      # We override entrypoint to /bin/sh to allow us to write a script
+      - name: Build PDFs with Pandoc
+        uses: docker://pandoc/extra:3.5
+        with:
+          entrypoint: /bin/sh
+          args: >-
+            -c "
+            for file in source/*.md; do
+              filename=$(basename -- \"$file\")
+              extension=\"${filename##*.}\"
+              filename=\"${filename%.*}\"
+              
+              echo \"Converting $file to out/$filename.pdf...\"
+              
+              pandoc \"$file\" \
+                --output=\"out/$filename.pdf\" \
+                --template=\"eisvogel\" \
+                --listings
+            done
+            "
+
+      - name: (optional) Upload PDF Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: policy-pdfs
+          path: out/*.pdf
+
+      - name: Create Release & Upload Assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
+          name: "Release ${{ steps.tag_version.outputs.new_tag }}"
+          body: ${{ steps.tag_version.outputs.changelog }}
+          # The wildcard *.pdf here automatically grabs ALL generated PDFs
+          files: out/*.pdf
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
