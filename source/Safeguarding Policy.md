@@ -11,6 +11,7 @@ toc-own-page: true
 numbersections: true
 header-right: "\\includegraphics[height=1cm]{assets/images/logo.png}"
 footer-left: "Version: {{version}}"
+titlepage-rule-height: 0
 ...
 
 # Policy Information
