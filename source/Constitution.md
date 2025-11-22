@@ -29,6 +29,7 @@ The CIO must have a principal office in England or Wales. The principal office o
 # Objects
 
 The objects of the CIO are:
+
 1) To promote education in technology, computing, and related fields, particularly for young people, by providing access to learning opportunities, resources, and creative events
 2) To advance the education of the public in information and communication technology (ICT), including through workshops, classes, events, and projects designed to develop practical skills and understanding of modern technologies.
 3) To organize and deliver events, clubs, competitions, and initiatives that bring together young people, families, and the wider community to learn about and engage with technology in a supportive and inclusive environment.
@@ -39,6 +40,7 @@ Nothing in this constitution shall authorise an application of the property of t
 # Powers
 
 The CIO has power to do anything which is calculated to further its objects or is conducive or incidental to doing so. In particular, the CIO has power to:
+
 1) borrow money and to charge the whole or any part of its property as security for the repayment of the money borrowed. The CIO must comply as appropriate with sections 124 and 125 of the Charities Act 2011, if it wishes to mortgage land;
 2) buy, take on lease or in exchange, hire or otherwise acquire any property and to maintain and equip it for use;
 3) sell, lease or otherwise dispose of all or any part of the property belonging to the CIO. In exercising this power, the CIO must comply as appropriate with sections 117 and 119-123 of the Charities Act 2011;
@@ -55,6 +57,7 @@ The CIO has power to do anything which is calculated to further its objects or i
 # Benefits and payments to charity trustees and connected persons
 ## General provisions
 No charity trustee or connected person may:
+
    1) buy or receive any goods or services from the CIO on terms preferential to those applicable to members of the public;
    2) sell goods, services, or any interest in land to the CIO;
    3) be employed by, or receive any remuneration from, the CIO;
@@ -72,6 +75,7 @@ unless the payment or benefit is permitted by sub-clause (2) of this clause or a
 ## In sub-clause (2) of this clause:
 
 ### "the CIO" includes any company in which the CIO:
+
    1) holds more than 50% of the shares; or
    2) controls more than 50% of the voting rights attached to the shares; or
    3)  has the right to appoint one or more directors to the board of the company;
@@ -81,6 +85,7 @@ unless the payment or benefit is permitted by sub-clause (2) of this clause or a
 # Conflicts of interest and conflicts of loyalty
 
 ## A charity trustee must:
+
 1) declare the nature and extent of any interest, direct or indirect, which he or she has in a proposed transaction or arrangement with the CIO or in any transaction or arrangement entered into by the CIO which has not previously been declared; and
 2) absent himself or herself from any discussions of the charity trustees in which it is possible that a conflict of interest will arise between his or her duty to act solely in the interests of the CIO and any personal interest (including but not limited to any financial interest).
 
@@ -95,6 +100,7 @@ If the CIO is wound up, the members of the CIO have no liability to contribute t
 ## Functions and duties of charity trustees
 
 The charity trustees shall manage the affairs of the CIO and may for that purpose exercise all the powers of the CIO. It is the duty of each charity trustee:
+
 1) to exercise his or her powers and to perform his or her functions in his or her capacity as a trustee of the CIO in the way he or she decides in good faith would be most likely to further the purposes of the CIO; and
 2) to exercise, in the performance of those functions, such care and skill as is reasonable in the circumstances having regard in particular to:
 3) any special knowledge or experience that he or she has or holds himself or herself out as having; and,  
@@ -135,6 +141,7 @@ The charity trustees shall manage the affairs of the CIO and may for that purpos
 # Information for new charity trustees
 
 The charity trustees will make available to each new charity trustee, on or before his or her first appointment:
+
 1) a copy of the current version of this constitution; and
 2) a copy of the CIO’s latest Trustees’ Annual Report and statement of accounts.
 
@@ -152,6 +159,7 @@ The charity trustees will make available to each new charity trustee, on or befo
 # Taking of decisions by charity trustees
 
 Any decision may be taken either:
+
 * at a meeting of the charity trustees; or
 * by resolution in writing or electronic form agreed by a majority of all of the charity trustees, which may comprise either a single document or several documents containing the text of the resolution in like form to which the majority of all of the charity trustees has signified their agreement. Such a resolution shall be effective provided that
   * a copy of the proposed resolution has been sent, at or as near as reasonably practicable to the same time, to all of the charity trustees; and
@@ -249,6 +257,7 @@ if, without the vote of that charity trustee and that charity trustee being coun
 # Use of electronic communications
 
 The CIO will comply with the requirements of the Communications Provisions in the General Regulations and in particular:
+
    1) the requirement to provide within 21 days to any member on request a hard copy of any document or information sent to the member otherwise than in hard copy form;
    2) any requirements to provide information to the Commission in a particular form or manner.
 
@@ -258,6 +267,7 @@ The CIO must comply with its obligations under the General Regulations in relati
 
 # Minutes
 The charity trustees must keep minutes of all:
+
 1) proceedings at general meetings of the CIO;
 2) meetings of the charity trustees and committees of charity trustees including:
    * the names of the trustees present at the meeting;
@@ -281,6 +291,7 @@ If a dispute arises between members of the CIO about the validity or propriety o
 # Amendment of constitution
 
 As provided by sections 224-227 of the Charities Act 2011:
+
 1) This constitution can only be amended:
    1) by resolution agreed in writing by all members of the CIO; or
    2) by a resolution passed by a 75% majority of those voting at a general meeting of the members of the CIO called in accordance with clause 19 (General meetings of members).
@@ -311,6 +322,7 @@ As provided by sections 224-227 of the Charities Act 2011:
 In this constitution:  
 
 ### **“connected person”** means:
+
    1) a child, parent, grandchild, grandparent, brother or sister of the charity trustee;
    2) the spouse or civil partner of the charity trustee or of any person falling within sub-clause (1) above;
    3) a person carrying on business in partnership with the charity trustee or with any person falling within sub-clause (1) or (2) above;
@@ -343,6 +355,7 @@ A counted vote or ballot, usually (but not necessarily) in writing
 ## General meetings of members
 
 ### Proxy voting
+
 1) Any member of the CIO may appoint another person as a proxy to exercise all or any of that member’s rights to attend, speak and vote at a general meeting of the CIO. Proxies must be appointed by a notice in writing (a “proxy notice”) which:
    1) states the name and address of the member appointing the proxy;
    2) identifies the person appointed to be that member’s proxy and the general meeting in relation to which that person is appointed;
@@ -383,6 +396,7 @@ A counted vote or ballot, usually (but not necessarily) in writing
 Any member or charity trustee of the CIO may communicate electronically with the CIO to an address specified by the CIO for the purpose, so long as the communication is authenticated in a manner which is satisfactory to the CIO.
 
 ### By the CIO
+
 1)  Any member or charity trustee of the CIO, by providing the CIO with his or her email address or similar, is taken to have agreed to receive communications from the CIO in electronic form at that address, unless the member has indicated to the CIO his or her unwillingness to receive such communications in that form.
 2) The charity trustees may, subject to compliance with any legal requirements, by means of publication on its website:
    1) provide the members with the notice referred to in clause 19(2) (Notice of general meetings);
