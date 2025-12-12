@@ -35,7 +35,6 @@ The objects of the CIO are:
 3) To organize and deliver events, clubs, competitions, and initiatives that bring together young people, families, and the wider community to learn about and engage with technology in a supportive and inclusive environment.
 4) To reduce barriers to digital literacy and technology engagement, ensuring that people from all backgrounds, abilities, and communities have the opportunity to learn and participate in coding, technology, and digital innovation.
 
-Nothing in this constitution shall authorise an application of the property of the CIO for the purposes which are not charitable in accordance with section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and section 2 of the Charities Act (Northern Ireland) 2008.
 
 # Powers
 
