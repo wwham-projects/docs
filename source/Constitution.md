@@ -28,13 +28,7 @@ The CIO must have a principal office in England or Wales. The principal office o
 
 # Objects
 
-The objects of the CIO are:
-
-1) To promote education in technology, computing, and related fields, particularly for young people, by providing access to learning opportunities, resources, and creative events
-2) To advance the education of the public in information and communication technology (ICT), including through workshops, classes, events, and projects designed to develop practical skills and understanding of modern technologies.
-3) To organize and deliver events, clubs, competitions, and initiatives that bring together young people, families, and the wider community to learn about and engage with technology in a supportive and inclusive environment.
-4) To reduce barriers to digital literacy and technology engagement, ensuring that people from all backgrounds, abilities, and communities have the opportunity to learn and participate in coding, technology, and digital innovation.
-
+For the public benefit, to advance education in the Wirral and the surrounding area in digital literacy and skills, information and communication technology (ICT), computing and related fields, by providing classes, training workshops, events, and other associated projects designed to develop practical skills and understanding of modern technologies.
 
 # Powers
 
