@@ -1,5 +1,5 @@
 ---
-date: "2025-11-22"
+date: "2026-08-16"
 title: "Constitution of a CIO whose only voting members are its trustees"
 subtitle: "Version: {{version}}"
 author: Wwham
